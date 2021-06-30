@@ -82,7 +82,7 @@ function App() {
       </div>
       <div>
         <h1 className="text-xl mb-3 text-indigo-500">Output</h1>
-        <div style={{ height: "30%" }}>
+        <div style={{ height: "80%" }}>
           <iframe
             src="about:blank"
             frameBorder="0"
